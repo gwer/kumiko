@@ -1,0 +1,14 @@
+.imagesWrapper {
+  position: relative;
+}
+
+.imgTag,
+.realSvg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.imgTag {
+  opacity: 0;
+}
